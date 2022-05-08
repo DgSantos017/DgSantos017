@@ -1,4 +1,4 @@
-## Hello World! 🌎 
+## console.log('Hello World! 🌎') 
 
 ### 👋 Olá, eu sou Diogo Santos
 
@@ -16,8 +16,8 @@
    <img alt="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-</div>
-<br/>
+</div><br/>
+
 ### Editor, Vesionamento de código e S.O
 <div><br/>
   <img alt="VSCODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
