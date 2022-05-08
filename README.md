@@ -44,7 +44,7 @@
   <a target="_blank" href="https://www.youtube.com/channel/UCb42rlAkDw33qHrbWH59b4Q/featured"><img target="_blank" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a target="_blank" href="https://www.instagram.com/diogo__.js/"><img target="_blank" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a target="_blank" href="mailto: diogosantosferreira.01@gmail.com"><img target="_blank" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a target="_blank" href="https://www.linkedin.com/in/diogo-santos/"><img target="_blank" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a target="_blank" href="https://www.linkedin.com/in/diogo-santos01/"><img target="_blank" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a target="_blank" href="https://wa.me/5598981163277"><img target="_blank" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
   
 </div>
