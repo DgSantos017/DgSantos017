@@ -32,9 +32,9 @@
 
 <br/>
 <p align="left">
-   <img width="39.5%" src="https://github-readme-stats.vercel.app/api?username=diogo1808&show_icons=true&theme=gruvbox&hide_border=true" />
-   <img width="39.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=diogo1808&theme=gruvbox&hide_border=true" />
-   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo1808&layout=compact&theme=gruvbox" />
+   <img width="39.5%" src="https://github-readme-stats.vercel.app/api?username=DgSantos017&show_icons=true&theme=gruvbox&hide_border=true" />
+   <img width="39.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=DgSantos017&theme=gruvbox&hide_border=true" />
+   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DgSantos017&layout=compact&theme=gruvbox" />
 </p><br>
 
 <div>
