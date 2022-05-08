@@ -2,10 +2,10 @@
 
 ### 👋 Olá, eu sou Diogo Santos
 
-- sou desenvolvedor Backend júnior Nodejs
-- 👯 Procuro adquirir e evoluir minhas habilidades.
+- Desenvolvedor Backend júnior Nodejs
+- 👯 Procuro adquirir e evoluir minhas habilidades
 
-- 😄 Conhecimento de inglês básico(em progresso)
+- 😄 Conhecimento de inglês básico (em progresso)
 
  -  tenho 25 anos e sou apaixonado pela área da tecnologia. Gosto de desafios, projetos em grupo e aprendizado contínuo. Prezo por um ambiente colaborativo para me proporcionar o crescimento adequado. Gosto de conhecer as pessoas e solucionar seus respectivos problemas.
 
@@ -14,8 +14,8 @@
   <br/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
    <img alt="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+   <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div><br/>
 
 ### Editor, Vesionamento de código e S.O
