@@ -2,7 +2,7 @@
 
 ### 👋 Olá, eu sou Diogo Santos
 
-- sou desenvolvedor Backend Nodejs/express
+- sou desenvolvedor Backend júnior Nodejs
 - 👯 Procuro adquirir e evoluir minhas habilidades.
 
 - 😄 Conhecimento de inglês básico(em progresso)
@@ -17,6 +17,7 @@
   <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
+<br />
 ### Editor, Vesionamento de código e S.O
 <div><br/>
   <img alt="VSCODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
