@@ -9,7 +9,7 @@
 
  -  tenho 25 anos e sou apaixonado pela área da tecnologia. Gosto de desafios, projetos em grupo e aprendizado contínuo. Prezo por um ambiente colaborativo para me proporcionar o crescimento adequado. Gosto de conhecer as pessoas e solucionar seus respectivos problemas.
 
-### Tenho conhecimento / estou aprendendo. 
+### Tenho conhecimento / estou todo dia aprendendo. 
 <div>
    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
    <img alt="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
