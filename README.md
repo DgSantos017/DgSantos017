@@ -7,7 +7,6 @@
 
 - 😄 Conhecimento de inglês básico (em progresso)
 
- -  tenho 25 anos e sou apaixonado pela área da tecnologia. Gosto de desafios, projetos em grupo e aprendizado contínuo. Prezo por um ambiente colaborativo para me proporcionar o crescimento adequado. Gosto de conhecer as pessoas e solucionar seus respectivos problemas.
 
 ### Tenho conhecimento / estou todo dia aprendendo. 
 <div>
