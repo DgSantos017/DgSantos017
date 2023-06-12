@@ -1,8 +1,8 @@
 ## console.log('Hello World! 🌎') 
 
-### 👋 Olá, eu sou Diogo Santos
+### 👋 Olá, eu sou Diogo Ferreira
 
-- Desenvolvedor Backend júnior Nodejs
+- Desenvolvedor Backend Java spring and Javascript Node.js
 - 👯 Procuro adquirir e evoluir minhas habilidades
 
 - 😄 Conhecimento de inglês básico (em progresso)
