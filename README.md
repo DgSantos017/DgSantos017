@@ -1,4 +1,3 @@
-## console.log('Hello World! 🌎') 
 
 ### 👋 Olá, eu sou Diogo Ferreira
 
