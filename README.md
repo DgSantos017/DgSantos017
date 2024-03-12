@@ -1,7 +1,7 @@
 
 ### 👋 Olá, eu sou Diogo Ferreira
 
-- Desenvolvedor Backend Java spring and Javascript Node.js
+- Desenvolvedor Backend Java spring
 - 👯 Procuro adquirir e evoluir minhas habilidades
 
 - 😄 Conhecimento de inglês básico (em progresso)
